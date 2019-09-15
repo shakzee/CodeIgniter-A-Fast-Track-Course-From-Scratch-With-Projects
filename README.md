@@ -2,7 +2,7 @@
 Learn step by step how to perform CRUD operation in CodeIgniter 3.x from scratch.
 
 ## How can you learn..?
-You can learn the Fast Track Course From Scratch with shakzee, for the the official website of the shakzee (https://www.shakzee.com/courses/codeigniter-a-fast-track-course-from-scratch-with-projects/)
+You can learn the Fast Track Course From Scratch with shakzee, for the official website of the shakzee (https://www.shakzee.com/courses/codeigniter-a-fast-track-course-from-scratch-with-projects/)
 
 
 ## Course Description.
